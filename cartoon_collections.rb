@@ -1,4 +1,4 @@
-def roll_call_dwarves(names).each_with_index { |name|
+def roll_call_dwarves(names).each_with_index { |name, index|
   
  
 end
